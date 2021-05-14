@@ -1,0 +1,16 @@
+#canvas{
+  
+   margin-top: 90px ;
+     
+}
+
+.message {
+    
+   
+    height: 10px;
+    font-size: 30px;
+    font-weight: bolder;
+    color: black;
+    margin-top: 30px;
+    text-align: center;
+}
